@@ -1,4 +1,4 @@
-# 👨‍💻 Jordy Lucas
+# 👨‍💻 Jordy Lucas 
 
 **`Desenvolvedor Front-End`**
 
